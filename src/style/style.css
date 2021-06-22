@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+#bold-text{
+    font-size: 45px;
+    font-weight: bold;
+}
+h1{
+    color: #262626;
+}
+h2{
+    color: #262626;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+#button-start{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+#cardContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 45vh;
+    min-height: 300px;
+    width: 20%;
+    overflow-y: scroll;
+    min-width: 350px;
+    background-color: white;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+}
+
+#cardDiv{
+    display: inline-block;
+}
+#cardDiv2{
+    display: inline-block;
+}
+.card{
+    border:2px solid #d4d4d4;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+    margin-left: 5px;
+}
+.red-div{
+    background-color: red;
+}
+.textbook-selection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.textbook{
+    background-color: white;
+    min-width: 300px !important;
+    min-height: 400px !important;
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 0px 10px #262626;
+    border-radius: 15px;
+    margin: 100px;
+}
+.textbook:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 10px royalblue;
+}
+
+.class-selection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.class-number{
+    background-color: white;
+    min-width: 300px !important;
+    min-height: 400px !important;
+    width: 300px;
+    height: 400px;
+    box-shadow: 5px 5px 10px #262626;
+    border-radius: 15px;
+    margin: 100px;
+}
+.class-number:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 10px royalblue;
+}
