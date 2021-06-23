@@ -15,7 +15,7 @@ var cards0 = {
     },
     set3: {
         question: "I want to drink___.",
-        answer: 'water'
+        answer: 'milk'
     },
     set4: {
         question: "Let's take a___.",
