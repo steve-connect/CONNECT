@@ -1,19 +1,30 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 function TextbookSelection() {
-    const selectTextbook = (loc) => {
-        window.location= loc
+    const selectTextbook1 = (loc) => {
+        window.location = loc
     }
+    const selectTextbook2 = (loc) => {
+        window.location = loc
+    }
+    const selectTextbook3 = (loc) => {
+        window.location = loc
+    }
+
     return (
         <>
-        <h1>Select your Textbook</h1>
-        <div className='textbook-selection'>
-            <div className='textbook' onClick={()=>{selectTextbook('/select-class/textbook1')}}>
-                <h1>SMART Communication 1</h1>
+            <h1>Select your Textbook</h1>
+            <div className='textbook-selection'>
+                <div className='textbook' onClick={()=>{selectTextbook1(`/select-class/textbook1/color=red`)}}>
+                    <h1 style={{backgroundColor: 'red', color:'white'}}>SMART Communication 1</h1>
+                </div>
+                <div className='textbook' onClick={()=>{selectTextbook2(`/select-class/textbook1/color=gold`)}}>
+                    <h1 style={{backgroundColor: 'gold', color:'white'}}>SMART Communication 2</h1>
+                </div>
+                <div className='textbook' onClick={()=>{selectTextbook3(`/select-class/textbook1/color=green`)}}>
+                    <h1 style={{backgroundColor: 'green', color:'white'}}>SMART Communication 3</h1>
+                </div>
             </div>
-            <div className='textbook'>(Coming Soon)</div>
-            <div className='textbook'>(Coming Soon)</div>
-        </div>
         </>
     )
 }
