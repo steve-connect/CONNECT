@@ -1,4 +1,4 @@
-import React, { useState, useEffect, memo} from 'react'
+import React, { useState, useEffect } from 'react'
 import ReactDOM from 'react-dom'
 import { Button } from '@material-ui/core'
 
@@ -15,7 +15,7 @@ var cards0 = {
     },
     set3: {
         question: "I want to drink___.",
-        answer: 'milk'
+        answer: 'water'
     },
     set4: {
         question: "Let's take a___.",
@@ -797,6 +797,7 @@ function Game({match}) {
     return (
         <div>
             <div className='red-div'>
+                <h1 style={{color:'white'}}>TIME:</h1>
                 <h1 style={{color:'white'}} id='time'>{time}</h1>
             </div>
             <div id='cardContainer'></div>
