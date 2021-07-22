@@ -23,9 +23,10 @@ h2{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 65vh;
+    height: 45vh;
     min-height: 300px;
     width: 20%;
+    overflow-y: scroll;
     min-width: 350px;
     background-color: white;
     border-radius: 0px;
@@ -42,13 +43,16 @@ h2{
 #cardDiv2{
     display: inline-block;
 }
-.card{
-    border:2px solid #d4d4d4;
+.card {
+    border: 2px solid #d4d4d4;
     width: 100px;
     height: 100px;
-    display: inline-block;
     margin: 5px;
     margin-left: 5px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 .red-div{
     background-color: red;
