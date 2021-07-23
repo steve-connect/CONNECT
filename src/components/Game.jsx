@@ -797,7 +797,6 @@ function Game({match}) {
     return (
         <div>
             <div className='red-div'>
-                <h1 style={{color:'white'}}>TIME:</h1>
                 <h1 style={{color:'white'}} id='time'>{time}</h1>
             </div>
             <div id='cardContainer'></div>
