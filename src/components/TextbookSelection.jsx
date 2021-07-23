@@ -18,10 +18,10 @@ function TextbookSelection() {
                 <div className='textbook' onClick={()=>{selectTextbook1(`/select-class/textbook1/color=red`)}}>
                     <h1 style={{backgroundColor: 'red', color:'white'}}>SMART Communication 1</h1>
                 </div>
-                <div className='textbook' onClick={()=>{selectTextbook2(`/select-class/textbook1/color=gold`)}}>
+                <div className='textbook' onClick={()=>{selectTextbook2(`/select-class/textbook2/color=gold`)}}>
                     <h1 style={{backgroundColor: 'gold', color:'white'}}>SMART Communication 2</h1>
                 </div>
-                <div className='textbook' onClick={()=>{selectTextbook3(`/select-class/textbook1/color=green`)}}>
+                <div className='textbook' onClick={()=>{selectTextbook3(`/select-class/textbook3/color=green`)}}>
                     <h1 style={{backgroundColor: 'green', color:'white'}}>SMART Communication 3</h1>
                 </div>
             </div>
