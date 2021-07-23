@@ -6,6 +6,8 @@ function StartScreen({match}) {
     var [classNumber, setClassNumber] = useState(0)
     const { textbook } = useParams()
 
+    var colors = ['red', 'gold', 'green']
+
     var number = textbook.replace('textbook', '')
 
     useEffect(()=>{
@@ -22,7 +24,7 @@ function StartScreen({match}) {
 
     return (
         <div>
-            <h1>SMART Communication {number}</h1>
+            <h1 style={{backgroundColor:colors[number - 1], color:'white', padding:'10px'}}>SMART Communication {number}</h1>
             <h1 id='bold-text'>CONNECT!</h1>
             <br/><h2>{classNumber}</h2> 
             <br/><p>Match the cards !</p>
