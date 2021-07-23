@@ -5,7 +5,7 @@ function ClassSelection(props) {
     const selectClass = (myClass) =>{
         window.location = myClass
     }
-    const { color } = useParams()
+    const { color, textbook } = useParams()
 
     const color1 = color.replace('color=', '')
 
@@ -17,40 +17,40 @@ function ClassSelection(props) {
         <>
         <h1>Select your Class</h1>
         <div className='class-selection'>
-            <div className='class-number' onClick={()=>{selectClass('/start/class0')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 0</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class0b')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 0b</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class1')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 1</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class2')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 2</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class3')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 3</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class4')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 4</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class5')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 5</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class6')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 6</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class8')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 8</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class9')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 9</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class10')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 10</h1>
             </div>
-            <div className='class-number' onClick={()=>{selectClass('/start/class11')}}>
+            <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 11</h1>
             </div>
             <div className='class-number' onClick={()=>{selectClass('/start/class12')}}>
