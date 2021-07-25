@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { Button } from '@material-ui/core'
 
 import GameOverMenu from './GameOverMenu'
+import { useParams } from 'react-router-dom'
 //class0
 var cards0 = {
     set1: {
@@ -633,6 +634,9 @@ function Game({match}) {
     const question = []
     const answers = []
     var cards = [cards1, cards12]
+    const { textbook } = useParams()
+    var colors = ['red', 'gold', 'green']
+    var number = textbook.replace('textbook', '')
 
     useEffect(() => {
         setMyClass(myClass = match.params.class)
@@ -796,7 +800,8 @@ function Game({match}) {
 
     return (
         <div>
-            <div className='red-div'>
+            <div style={{backgroundColor: colors[number - 1]}}>
+                <h1 style={{color:'white'}}>TIME:</h1>
                 <h1 style={{color:'white'}} id='time'>{time}</h1>
             </div>
             <div id='cardContainer'></div>
