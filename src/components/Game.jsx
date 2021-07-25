@@ -99,7 +99,7 @@ var cards1 = {
         answer: 'like'
     },
     set2: {
-        question: 'I___ghosts because they are scary!',
+        question: 'I___spiders because they are scary!',
         answer: 'hate'
     },
     set3: {
