@@ -15,8 +15,8 @@ function App() {
           <Switch>
             <Route exact path='/' component={TextbookSelection}/>
             <Route path='/select-class/:textbook/:color' component={ClassSelection}/>
-            <Route path='/start/:textbook/:class' component={StartScreen}/>
-            <Route path='/game/:class' component={Game}/>
+            <Route path='/start/:textbook/:class/:classNum' component={StartScreen}/>
+            <Route path='/game/:textbook/:class' component={Game}/>
         </Switch>
       </div>
     </Router>
