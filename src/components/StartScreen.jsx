@@ -32,7 +32,6 @@ function StartScreen({match}) {
             <br/><Button
                     id='button-start' 
                     variant="contained" 
-                    color='secondary' 
                     size='big'
                     onClick={()=>{startGame(classNumber)}}
                     >
