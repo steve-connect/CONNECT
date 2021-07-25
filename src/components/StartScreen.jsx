@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom'
 
 function StartScreen({match}) {
     var [classNumber, setClassNumber] = useState(0)
-    const { textbook } = useParams()
+    const { textbook, classNum } = useParams()
 
     var colors = ['red', 'gold', 'green']
 
@@ -18,7 +18,7 @@ function StartScreen({match}) {
     }, [])
 
     const startGame = () =>{
-        window.location = `/game/${classNumber}`
+        window.location = `/game/${textbook}/${classNumber}`
     }
 
 
@@ -26,7 +26,7 @@ function StartScreen({match}) {
         <div>
             <h1 style={{backgroundColor:colors[number - 1], color:'white', padding:'10px'}}>SMART Communication {number}</h1>
             <h1 id='bold-text'>CONNECT!</h1>
-            <br/><h2>{classNumber}</h2> 
+            <br/><h2>Class {classNum}</h2> 
             <br/><p>Match the cards !</p>
             <p>5 seconds are added for each mistake !</p>
             <br/><Button
