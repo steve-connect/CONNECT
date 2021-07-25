@@ -53,6 +53,7 @@ h2{
     align-content: center;
     justify-content: center;
     align-items: center;
+    font-size: 0.9rem;
 }
 .red-div{
     background-color: red;
