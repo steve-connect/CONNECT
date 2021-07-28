@@ -634,7 +634,7 @@ function Game({match}) {
     const question = []
     const answers = []
     var cards = [cards1, cards12]
-    const { textbook } = useParams()
+    var textbook = 'textbook1'
     var colors = ['red', 'gold', 'green']
     var number = textbook.replace('textbook', '')
 
