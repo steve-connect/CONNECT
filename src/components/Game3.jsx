@@ -801,7 +801,6 @@ function Game({match}) {
     return (
         <div>
             <div style={{backgroundColor: colors[number - 1]}}>
-                <h1 style={{color:'white'}}>3</h1>
                 <h1 style={{color:'white'}} id='time'>{time}</h1>
             </div>
             <div id='cardContainer'></div>
