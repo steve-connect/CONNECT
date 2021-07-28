@@ -5,7 +5,9 @@ function ClassSelection(props) {
     const selectClass = (myClass) =>{
         window.location = myClass
     }
-    const { color, textbook } = useParams()
+    const { color } = useParams()
+
+    var textbook = 'textbook1'
 
     const color1 = color.replace('color=', '')
 
