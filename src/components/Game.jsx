@@ -272,88 +272,88 @@ var cards4 = {
 //class5
 var cards5 = {
     set1: {
-        question: "I___to get a great job after university.",
+        question: "I ___ to find a great job. Wish me luck!",
         answer: 'hope'
     },
     set2: {
-        question: "We___eating junk food. It's terrible.",
+        question: "We ___ eating junk food. It's terrible.",
         answer: 'dislike'
     },
     set3: {
-        question: "I___about changing my job when my boss shouts.",
-        answer: 'think'
+        question: "I’m ___ about changing my job. It’s too hard!",
+        answer: 'thinking'
     },
     set4: {
-        question: "We really___playing games together. It's fun.",
+        question: "We really ___ playing games together. It's fun.",
         answer: 'enjoy'
     },
     set5: {
-        question: "I___to eat that cake. It looks delicious.",
+        question: "I ___ to eat that cake. It looks delicious.",
         answer: 'want'
     },
     set6: {
-        question: "We can't___meeting him.It would be unreal!",
+        question: "We can't ___ meeting him. It would be unreal!",
         answer: 'imagine'
     },
     set7: {
-        question: "I___to buy new shoes. These ones are broken.",
+        question: "I don’t ___ to buy it. I already have one at home.",
         answer: 'need'
     },
     set8: {
-        question: "We often___eating quickly. After 1 minute!",
-        answer: 'finish'
+        question: "We often ___ to travel by car rather than by train.",
+        answer: ' prefer'
     },
     set9: {
-        question: "After thinking about it, I___ to talk to her.",
+        question: "After thinking about it, I ___ to talk to her.",
         answer: "decided"
     },
     set10: {
-        question: "When I___ to cry, please turn the movie off.",
-        answer: 'start'
+        question: "I’m ___ to go next year, but I have to save money.",
+        answer: ' planning'
     },
 
 }
 //class6
 var cards6 = {
     set1: {
-        question: "I___to study harder or I'll fail.",
+        question: "I ___ to study harder or I'll fail.",
         answer: 'need'
     },
     set2: {
-        question: "Let's___playing this. It's boring.",
-        answer: 'finish'
+        question: "I’m ___ to start learning the guitar.",
+        answer: 'planning'
     },
     set3: {
-        question: "We've___to get married!",
+        question: "We've ___ to get married!",
         answer: 'decided'
     },
     set4: {
-        question: "I___to play it now. I can't wait!",
+        question: "I ___ to play it now. I can't wait!",
         answer: 'want'
     },
     set5: {
-        question: "My kids often___living on the moon.",
+        question: "My kids often ___ living on the moon.",
         answer: 'imagine'
     },
     set6: {
-        question: "I really___talking with you. Thanks.",
+        question: "I really ___ talking with you. Thanks.",
         answer: 'enjoy'
     },
     set7: {
-        question: "When I___about eating pie I smile.",
-        answer: 'think'
+        question: "She’s ___ about starting a new hobby.",
+        answer: 'thinking'
     },
     set8: {
-        question: "We___to see you again some day.",
+        question: "We ___ to see you again some day.",
         answer: 'hope'
     },
     set9: {
-        question: "I___loud music. It hurts my ears.",
+        question: "I ___ loud music. It hurts my ears.",
         answer: "dislike"
     },
     set10: {
-        question: "Let's___doing it now and finish early.",
-        answer: 'start'
+        question: "I ___ studying alone rathen than together.",
+        answer: 'prefer'
     },
 
 }
