@@ -72,7 +72,7 @@ var cards0b = {
     },
     set6: {
         question: "‘R’ stands for___in this book.",
-        answer: 'Reason'
+        answer: 'Result'
     },
     set7: {
         question: "The 1st section is called___.",
