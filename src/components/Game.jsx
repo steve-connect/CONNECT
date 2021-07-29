@@ -88,7 +88,7 @@ var cards0b = {
     },
     set10: {
         question: "This game is called___.",
-        answer: 'CONNECT!'
+        answer: 'CHAMPION CONNECT!'
     },
 
 }
