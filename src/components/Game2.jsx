@@ -76,7 +76,7 @@ var cards0b = {
     },
     set7: {
         question: "The 1st section is called___.SC2",
-        answer: 'Ready!SC1'
+        answer: 'Ready!SC2'
     },
     set8: {
         question: "‘M’ stands for___in this book. SC2",
@@ -492,44 +492,44 @@ var cards10 = {
 //class11
 var cards11 = {
     set1: {
-        question: "If I see my friend again, I will___.",
-        answer: 'hug her'
+        question: "I agree because___be more fun.",
+        answer: 'trains can often'
     },
     set2: {
-        question: "If we cannot do it, we will___.",
-        answer: 'need help'
+        question: "I think so too because___quieter.",
+        answer: 'libraries are much'
     },
     set3: {
-        question: "If we buy it today, we can___.",
-        answer: 'take it home'
+        question: "I totally agree because___time.",
+        answer: 'tests take less'
     },
     set4: {
-        question: "If I buy a cheaper one, I will___.",
-        answer: 'save money'
+        question: "You’re right because___dirty.",
+        answer: 'cities are too'
     },
     set5: {
-        question: "If you sit too long, you may___.",
-        answer: 'fall asleep'
+        question: "I’m not sure because___for you.",
+        answer: 'snacks are bad'
     },
     set6: {
-        question: "If you use an alarm, you can___.",
-        answer: 'get up early'
+        question: "I don’t know because___drop.",
+        answer: 'phones are easy to'
     },
     set7: {
-        question: "If we try that game, we may___.",
-        answer: 'enjoy playing it'
+        question: "Maybe not because___get torn.",
+        answer: 'any coat can'
     },
     set8: {
-        question: "If you punch him, you will___.",
-        answer: 'be in trouble'
+        question: "I disagree because___earn money.",
+        answer: 'students want to'
     },
     set9: {
-        question: "If I see that cake, I may sit and___.",
-        answer: "eat it"
+        question: "I don’t think so because___friends.",
+        answer: "I can’t meet"
     },
     set10: {
-        question: "If I save money, I can___.",
-        answer: 'travel more'
+        question: "I can’t agree because___safe.",
+        answer: 'I won’t feel'
     },
 
 }
@@ -537,88 +537,88 @@ var cards11 = {
 //class12
 var cards12 = {
     set1: {
-        question: 'I have to say sorry because I___.',
-        answer: 'forgot her birthday'
+        question: 'Yeah, but___learn about new things.',
+        answer: 'visiting new places helps us'
     },
     set2: {
-        question: 'We need to go back so we___.',
-        answer: 'can find our bags'
+        question: 'That’s not true because___buy.',
+        answer: 'junk food is really easy to'
     },
     set3: {
-        question: 'You must eat more because you___.',
-        answer: 'look so thin'
+        question: 'You don’t know if___dangerous or not.',
+        answer: 'new places we visit are'
     },
     set4: {
-        question: "I don't have to go so I___.",
-        answer: 'will relax at home'
+        question: "That doesn’t mean that___money.",
+        answer: 'we should always spend our'
     },
     set5: {
-        question: "You don't need to help me because you___.",
-        answer: 'need a break'
+        question: "That doesn’t matter because___exam.",
+        answer: 'they still need to pass the'
     },
     set6: {
-        question: "We mustn't change our plans so we___.",
-        answer: 'can arrange the trip'
+        question: "That’s not important because___problem.",
+        answer: 'phones can easily solve that'
     },
     set7: {
-        question: 'I should try again because I___.',
-        answer: 'really want to pass'
+        question: 'That won’t work because___costs.',
+        answer: 'we will still pay high living'
     },
     set8: {
-        question: 'You should study more so you___.',
-        answer: 'can improve your English'
+        question: 'That won’t help because___copying.',
+        answer: 'students will just cheat by'
     },
     set9: {
-        question: "We shouldn't fight because we___!",
-        answer: 'love each other'
+        question: "That won’t make___it can help them.",
+        answer: 'people think more about how'
     },
     set10: {
-        question: "You shouldn't stay up late so you___.",
-        answer: 'can get up tomorrow'
+        question: "That won’t change___children.",
+        answer: 'the way parents talk to their'
     },
 
 }
 //class13
 var cards13 = {
     set1: {
-        question: "You have to practice so you___.",
-        answer: 'can improve'
+        question: "Yeah, but___healthcare in cities.",
+        answer: 'people get good'
     },
     set2: {
-        question: "I need to see John because I___.",
-        answer: 'love him'
+        question: "That’s not true because___brain.",
+        answer: 'study help’s our'
     },
     set3: {
-        question: "We must go now so we___.",
-        answer: "aren't late"
+        question: "You don’t know if we___help later.",
+        answer: "will need his"
     },
     set4: {
-        question: "You don't have to pay because___.",
-        answer: "it's my turn"
+        question: "That doesn’t mean that___richer.",
+        answer: "you’ll become"
     },
     set5: {
-        question: "I don't need to move so I___.",
-        answer: 'can stay here'
+        question: "That doesn’t matter because we___.",
+        answer: 'have it already'
     },
     set6: {
-        question: "We mustn't cheat because we___.",
-        answer: "won't learn"
+        question: "That’s not important because___it.",
+        answer: 'we won’t miss'
     },
     set7: {
-        question: "You should be tough so you___.",
-        answer: "don't cry"
+        question: "That won’t work because___far.",
+        answer: "it’s too"
     },
     set8: {
-        question: "I should try it because___.",
-        answer: "it's new"
+        question: "That won’t help because___won’t go.",
+        answer: "they still"
     },
     set9: {
-        question: "We shouldn't lie to Jane so we___.",
-        answer: "don't hurt her"
+        question: "That won’t make___things we do.",
+        answer: "us change the"
     },
     set10: {
-        question: "I shouldn't sell it because I___.",
-        answer: 'want to keep it'
+        question: "That won’t change___is done.",
+        answer: 'the way it'
     },
 
 }
