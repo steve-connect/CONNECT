@@ -40,7 +40,7 @@ var cards0 = {
     },
     set9: {
         question: "He likes to study at___.",
-        answer: "school"
+        answer: "home"
     },
     set10: {
         question: "She can fly a___.",
