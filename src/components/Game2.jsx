@@ -7,132 +7,132 @@ import { useParams } from 'react-router-dom'
 //class0
 var cards0 = {
     set1: {
-        question: "A___is a good pet.",
-        answer: 'dragon'
+        question: "A___is a good pet. SC2",
+        answer: 'dragonSC2'
     },
     set2: {
-        question: "I saw a bird___today.",
-        answer: 'fly'
+        question: "I saw a bird___today. SC2",
+        answer: 'flySC2'
     },
     set3: {
-        question: "I want to drink___.",
-        answer: 'water'
+        question: "I want to drink___. SC2",
+        answer: 'waterSC2'
     },
     set4: {
-        question: "Let's take a___.",
-        answer: 'break'
+        question: "Let's take a___. SC2",
+        answer: 'breakSC2'
     },
     set5: {
-        question: "I live in a___.",
-        answer: 'house'
+        question: "I live in a___. SC2",
+        answer: 'houseSC2'
     },
     set6: {
-        question: "I always___to work.",
-        answer: 'walk'
+        question: "I always___to work. SC2",
+        answer: 'walkSC2'
     },
     set7: {
-        question: "I like to eat___.",
-        answer: 'sandwiches'
+        question: "I like to eat___. SC2",
+        answer: 'sandwichesSC2'
     },
     set8: {
-        question: "We saw a___at the zoo.",
-        answer: 'lion'
+        question: "We saw a___at the zoo. SC2",
+        answer: 'lionSC2'
     },
     set9: {
-        question: "He likes to study at___.",
-        answer: "school"
+        question: "He likes to study at___. SC2",
+        answer: "schoolSC2"
     },
     set10: {
-        question: "She can fly a___.",
-        answer: 'plane'
+        question: "She can fly a___. SC2",
+        answer: 'planeSC2'
     },
 
 }
 //class0b
 var cards0b = {
     set1: {
-        question: "‘A’ stands for___in this book.",
-        answer: 'Action'
+        question: "‘A’ stands for___in this book. SC2",
+        answer: 'Action SC2'
     },
     set2: {
-        question: "The 2nd section is called___.",
-        answer: 'SMART CHECK!'
+        question: "The 2nd section is called___. SC2",
+        answer: 'SMART CHECK! SC2'
     },
     set3: {
-        question: "‘T’ stands for___in this book.",
-        answer: 'Time'
+        question: "‘T’ stands for___in this book. SC2",
+        answer: 'Time SC2'
     },
     set4: {
-        question: "The 3rd section is called___.",
-        answer: 'Challenge!'
+        question: "The 3rd section is called___. SC2",
+        answer: 'Challenge!SC2'
     },
     set5: {
-        question: "‘S’ stands for___in this book.",
-        answer: 'Skill'
+        question: "‘S’ stands for___in this book. SC2",
+        answer: 'SkillSC2'
     },
     set6: {
-        question: "‘R’ stands for___in this book.",
-        answer: 'Reason'
+        question: "‘R’ stands for___in this book.SC2",
+        answer: 'ReasonSC2'
     },
     set7: {
-        question: "The 1st section is called___.",
-        answer: 'Ready!'
+        question: "The 1st section is called___.SC2",
+        answer: 'Ready!SC1'
     },
     set8: {
-        question: "‘M’ stands for___in this book.",
-        answer: 'Measure'
+        question: "‘M’ stands for___in this book. SC2",
+        answer: 'MeasureSC2'
     },
     set9: {
-        question: "This game is in___.",
-        answer: "Class 0"
+        question: "This game is in___. SC2",
+        answer: "Class 0SC2"
     },
     set10: {
-        question: "This game is called___.",
-        answer: 'CONNECT!'
+        question: "This game is called___. SC2",
+        answer: 'CONNECT!SC2'
     },
 
 }
 //class1
 var cards1 = {
     set1: {
-        question: 'I___pizza because it tastes good.',
-        answer: 'like'
+        question: 'I think judo is tough because___.',
+        answer: 'you can get injured easily'
     },
     set2: {
-        question: 'I___spiders because they are scary!',
-        answer: 'hate'
+        question: 'I definitely think___.',
+        answer: 'students need more English'
     },
     set3: {
-        question: "I'm___snakes because they bite.",
-        answer: 'scared of'
+        question: "I don’t think money helps as___.",
+        answer: 'it can’t buy you love'
     },
     set4: {
-        question: "I'm___English because I study hard.",
-        answer: 'good at'
+        question: "I really don’t think___!",
+        answer: 'a really smart person'
     },
     set5: {
-        question: "I'm___running because I don't train",
-        answer: 'not good'
+        question: "She might be___.",
+        answer: 'a really smart person'
     },
     set6: {
-        question: "I'm___fashion because it is cool.",
-        answer: 'interested in'
+        question: "It could be scary because___!",
+        answer: 'it goes too high and fast'
     },
     set7: {
-        question: 'I___my mother because she is amazing!',
-        answer: 'love'
+        question: 'I’m not sure if it’s cheap because___.',
+        answer: 'it looks expensive'
     },
     set8: {
-        question: "I'm___sports because they are hard.",
-        answer: 'not interested in'
+        question: "I don’t know if___.",
+        answer: 'it tastes good. It looks old'
     },
     set9: {
-        question: "I___rain because I get wet.",
-        answer: "don't like"
+        question: "It may not be funny, but___!",
+        answer: "let’s watch it and find out"
     },
     set10: {
-        question: "I'm___falling because I am brave.",
-        answer: 'not afraid of'
+        question: "It probably isn’t difficult for___.",
+        answer: 'us to pass that easy test'
     },
 
 }
