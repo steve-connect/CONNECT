@@ -360,132 +360,132 @@ var cards6 = {
 //class8
 var cards8 = {
     set1: {
-        question: "___is the best soccer player in our club?",
-        answer: 'Who'
+        question: "So you think that we have to___?",
+        answer: 'live in the countryside'
     },
     set2: {
-        question: "___is she always getting so angry?",
-        answer: 'Why'
+        question: "So in your opinion, we need___?",
+        answer: 'homework everyday'
     },
     set3: {
-        question: "___is the best place for us to meet?",
-        answer: 'Where'
+        question: "Can I ask what you hate___?",
+        answer: 'about traveling abroad'
     },
     set4: {
-        question: "___your brother older or younger than you?",
-        answer: 'Is'
+        question: "What do you like about that___?",
+        answer: 'kind of restaurant'
     },
     set5: {
-        question: "___is the movie? I only like short ones.",
-        answer: 'How long'
+        question: "Why do you think we___?",
+        answer: 'shouldn’t watch TV'
     },
     set6: {
-        question: "___toy is the best? They both look good!",
-        answer: 'Which'
+        question: "What kind of practice is___?",
+        answer: 'best for improving'
     },
     set7: {
-        question: "___you want to make a lot of money?",
-        answer: 'Do'
+        question: "Is that because your goal is___?",
+        answer: 'getting a good job'
     },
     set8: {
-        question: "___is the easiest way to get there?",
-        answer: 'What'
+        question: "If you could buy one, what___?",
+        answer: 'car would you get'
     },
     set9: {
-        question: "___money do you have? I forgot my wallet!",
-        answer: "How much"
+        question: "What would you like to___?",
+        answer: 'do instead of traveling'
     },
     set10: {
-        question: "___did you move here? Last year.",
-        answer: 'When'
+        question: "What should we do to spend___?",
+        answer: 'less money on food'
     },
 
 }
 //class9
 var cards9 = {
     set1: {
-        question: "___you want to travel abroad?",
-        answer: 'Do'
+        question: "So you think that___?",
+        answer: 'friends are important'
     },
     set2: {
-        question: "___color is best? Blue or red?",
-        answer: 'Which'
+        question: "So in your opinion, we___?",
+        answer: 'should work less'
     },
     set3: {
-        question: "___can we meet? I miss you!",
-        answer: 'When'
+        question: "Can I ask what it___?",
+        answer: 'is you like about it'
     },
     set4: {
-        question: "___is that in your hand? A coin?",
-        answer: 'What'
+        question: "What do you___?",
+        answer: 'think we should do'
     },
     set5: {
-        question: "___do you know about dogs?",
-        answer: 'How much'
+        question: "Why do you___?",
+        answer: 'think it’s right'
     },
     set6: {
-        question: "___do you think is the faster runner?",
-        answer: 'Who'
+        question: "What kind of___?",
+        answer: 'help do they need'
     },
     set7: {
-        question: "___did you put it? I can't find it!",
-        answer: 'Where'
+        question: "Is that because___?",
+        answer: 'you think it’s fast'
     },
     set8: {
-        question: "___your friend coming today?",
-        answer: 'Is'
+        question: "If___, when would you go?",
+        answer: 'you could visit'
     },
     set9: {
-        question: "___do you like it? I hate it!",
-        answer: "Why"
+        question: "What would___?",
+        answer: "you like to eat more of"
     },
     set10: {
-        question: "___do you sleep each night? A lot?",
-        answer: 'How long'
+        question: "What should___?",
+        answer: 'bosses help with'
     },
 
 }
 //class10
 var cards10 = {
     set1: {
-        question: "If we finish studying, we___.",
-        answer: 'will go outside and play'
+        question: "I agree because___their tests.",
+        answer: 'students should try to pass'
     },
     set2: {
-        question: "If I work too hard, I___",
-        answer: 'may quit the job.'
+        question: "I think so too because___places.",
+        answer: 'travel can help us see new'
     },
     set3: {
-        question: "If you don't wear a coat, you___.",
-        answer: 'may catch a cold'
+        question: "I totally agree because___our notes.",
+        answer: 'computers help us organize'
     },
     set4: {
-        question: "If I can buy a ticket, I___.",
-        answer: 'will go and see the show'
+        question: "You’re right because___about space.",
+        answer: 'small homes make us think'
     },
     set5: {
-        question: "If you train hard, you___.",
-        answer: 'can be a champion'
+        question: "I’m not sure because___their money.",
+        answer: 'some people want to save'
     },
     set6: {
-        question: "If I go to America, I___.",
-        answer: 'will try to speak english'
+        question: "I don’t know because___you are.",
+        answer: 'it depends on how rich'
     },
     set7: {
-        question: "If we go to the party, we___.",
-        answer: 'may dance for a long time'
+        question: "Maybe not because___time to learn.",
+        answer: 'it might take us a lot of'
     },
     set8: {
-        question: "If you eat healthy food, you___.",
-        answer: 'will feel much better'
+        question: "I disagree because___to be safe.",
+        answer: 'parents want their children'
     },
     set9: {
-        question: "If I wear my glasses, I___.",
-        answer: "will see much better"
+        question: "I don’t think so because___health.",
+        answer: "sports are good for our"
     },
     set10: {
-        question: "If we go there, we___.",
-        answer: 'can try the new menu'
+        question: "I can’t agree because___happier.",
+        answer: 'my online friends make me'
     },
 
 }
