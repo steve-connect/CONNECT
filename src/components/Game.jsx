@@ -7,43 +7,43 @@ import { useParams } from 'react-router-dom'
 //class0
 var cards0 = {
     set1: {
-        question: "A___is a good pet.",
+        question: "A ___ is a good pet.",
         answer: 'dog'
     },
     set2: {
-        question: "I saw a bird___today.",
+        question: "I saw a bird ___ today.",
         answer: 'fly'
     },
     set3: {
-        question: "I want to drink___.",
+        question: "I want to drink ___.",
         answer: 'water'
     },
     set4: {
-        question: "Let's take a___.",
+        question: "Let's take a ___.",
         answer: 'break'
     },
     set5: {
-        question: "I live in a___.",
+        question: "I live in a ___.",
         answer: 'house'
     },
     set6: {
-        question: "I always___to work.",
+        question: "I always ___ to work.",
         answer: 'walk'
     },
     set7: {
-        question: "I like to eat___.",
+        question: "I like to eat ___.",
         answer: 'sandwiches'
     },
     set8: {
-        question: "We saw a___at the zoo.",
+        question: "We saw a ___ at the zoo.",
         answer: 'lion'
     },
     set9: {
-        question: "He likes to study at___.",
+        question: "He likes to study at ___.",
         answer: "home"
     },
     set10: {
-        question: "She can fly a___.",
+        question: "She can fly a ___.",
         answer: 'plane'
     },
 
@@ -51,43 +51,43 @@ var cards0 = {
 //class0b
 var cards0b = {
     set1: {
-        question: "‘A’ stands for___in this book.",
+        question: "‘A’ stands for ___ in this book.",
         answer: 'Action'
     },
     set2: {
-        question: "The 2nd section is called___.",
+        question: "The 2nd section is called ___.",
         answer: 'SMART CHECK!'
     },
     set3: {
-        question: "‘T’ stands for___in this book.",
+        question: "‘T’ stands for ___ in this book.",
         answer: 'Time'
     },
     set4: {
-        question: "The 3rd section is called___.",
+        question: "The 3rd section is called ___.",
         answer: 'Challenge!'
     },
     set5: {
-        question: "‘S’ stands for___in this book.",
+        question: "‘S’ stands for ___ in this book.",
         answer: 'Skill'
     },
     set6: {
-        question: "‘R’ stands for___in this book.",
+        question: "‘R’ stands for ___ in this book.",
         answer: 'Result'
     },
     set7: {
-        question: "The 1st section is called___.",
+        question: "The 1st section is called ___.",
         answer: 'Ready!'
     },
     set8: {
-        question: "‘M’ stands for___in this book.",
+        question: "‘M’ stands for ___ in this book.",
         answer: 'Measure'
     },
     set9: {
-        question: "This game is in___.",
+        question: "This game is in ___.",
         answer: "Class 0"
     },
     set10: {
-        question: "This game is called___.",
+        question: "This game is called ___.",
         answer: 'CHAMPION CONNECT!'
     },
 
@@ -95,43 +95,43 @@ var cards0b = {
 //class1
 var cards1 = {
     set1: {
-        question: 'I___pizza because it tastes good.',
+        question: 'I ___ pizza because it tastes good.',
         answer: 'like'
     },
     set2: {
-        question: 'I___spiders because they are scary!',
+        question: 'I ___ spiders because they are scary!',
         answer: 'hate'
     },
     set3: {
-        question: "I'm___snakes because they bite.",
+        question: "I'm ___ snakes because they bite.",
         answer: 'scared of'
     },
     set4: {
-        question: "I'm___English because I study hard.",
+        question: "I'm ___ English because I study hard.",
         answer: 'good at'
     },
     set5: {
-        question: "I'm___running because I don't train",
+        question: "I'm ___ running because I don't train",
         answer: 'not good'
     },
     set6: {
-        question: "I'm___fashion because it is cool.",
+        question: "I'm ___ fashion because it is cool.",
         answer: 'interested in'
     },
     set7: {
-        question: 'I___my mother because she is amazing!',
+        question: 'I ___ my mother because she is amazing!',
         answer: 'love'
     },
     set8: {
-        question: "I'm___sports because they are hard.",
+        question: "I'm ___ sports because they are hard.",
         answer: 'not interested in'
     },
     set9: {
-        question: "I___rain because I get wet.",
+        question: "I ___ rain because I get wet.",
         answer: "don't like"
     },
     set10: {
-        question: "I'm___falling because I am brave.",
+        question: "I'm ___ falling because I am brave.",
         answer: 'not afraid of'
     },
 
@@ -139,43 +139,43 @@ var cards1 = {
 //class2
 var cards2 = {
     set1: {
-        question: "I___reading because it is fun.",
+        question: "I ___ reading because it is fun.",
         answer: 'like'
     },
     set2: {
-        question: "I’m___TV because it is boring.",
+        question: "I’m ___ TV because it is boring.",
         answer: 'not interested in'
     },
     set3: {
-        question: "She’s___it because she practices.",
+        question: "She’s___ it because she practices.",
         answer: 'good at'
     },
     set4: {
-        question: "He’s___it because he is brave.",
+        question: "He’s ___ it because he is brave.",
         answer: 'not scared of'
     },
     set5: {
-        question: "I___him because he is incredible!",
+        question: "I ___ him because he is incredible!",
         answer: 'love'
     },
     set6: {
-        question: "I___curry because it’s too spicy!",
+        question: "I ___ curry because it’s too spicy!",
         answer: 'hate'
     },
     set7: {
-        question: "He’s___me because I punch him.",
+        question: "He’s ___ me because I punch him.",
         answer: 'scared of'
     },
     set8: {
-        question: "I’m___it because I don’t practice.",
+        question: "I’m ___ it because I don’t practice.",
         answer: 'not good at'
     },
     set9: {
-        question: "I___like math because it’s hard.",
+        question: "I ___ like math because it’s hard.",
         answer: "don't"
     },
     set10: {
-        question: "She’s___it because it looks cool.",
+        question: "She’s ___ it because it looks cool.",
         answer: 'interested in'
     },
 
@@ -184,43 +184,43 @@ var cards2 = {
 //class3
 var cards3 = {
     set1: {
-        question: 'Your house is___so we can get ther sooner.',
+        question: 'Your house is ___ so we can get ther sooner.',
         answer: 'closer'
     },
     set2: {
-        question: "It's the most___. I want to spend less money.",
+        question: "It's the most ___. I want to spend less money.",
         answer: 'expensive'
     },
     set3: {
-        question: "That road is the___. Let's go a quicker way.",
+        question: "That road is the ___. Let's go a quicker way.",
         answer: 'longest'
     },
     set4: {
-        question: "Going by train is___. A bike is too slow.",
+        question: "Going by train is ___. A bike is too slow.",
         answer: 'faster'
     },
     set5: {
-        question: "The food is yummy! It's easily the most___.",
+        question: "The food is yummy! It's easily the most ___.",
         answer: 'delicious'
     },
     set6: {
-        question: "The car is___. There is more space.",
+        question: "The car is ___. There is more space.",
         answer: 'bigger'
     },
     set7: {
-        question: 'I cannot win. This game is the most___.',
+        question: 'I cannot win. This game is the most ___.',
         answer: 'difficult'
     },
     set8: {
-        question: "This is the most___flower I have ever seen.",
+        question: "This is the most ___ flower I have ever seen.",
         answer: 'beautiful'
     },
     set9: {
-        question: "Slow down. I am tired. I'm___than you!",
+        question: "Slow down. I am tired. I'm ___ than you!",
         answer: "older"
     },
     set10: {
-        question: "That time is much more___for me. Thanks!",
+        question: "That time is much more ___ for me. Thanks!",
         answer: 'convenient'
     },
 
@@ -228,43 +228,43 @@ var cards3 = {
 //class4
 var cards4 = {
     set1: {
-        question: "It's the___from here. It's far away.",
+        question: "It's the ___ from here. It's far away.",
         answer: 'furthest'
     },
     set2: {
-        question: "It's___than this. It's not pretty!",
+        question: "It's ___ than this. It's not pretty!",
         answer: 'uglier'
     },
     set3: {
-        question: "Walking is the___way. Let's drive!",
+        question: "Walking is the ___ way. Let's drive!",
         answer: 'slowest'
     },
     set4: {
-        question: "My salad is___than that. It burns!",
+        question: "My salad is ___ than that. It burns!",
         answer: 'spicier'
     },
     set5: {
-        question: "It's the___location for everyone.",
+        question: "It's the ___ location for everyone.",
         answer: 'least convenient'
     },
     set6: {
-        question: "That ticket is___. Save your money!",
+        question: "That ticket is ___. Save your money!",
         answer: 'cheaper'
     },
     set7: {
-        question: "I'm so busy. Let's watch a___show.",
+        question: "I'm so busy. Let's watch a ___ show.",
         answer: 'shorter'
     },
     set8: {
-        question: "I'm___than him. He's really old!",
+        question: "I'm ___ than him. He's really old!",
         answer: 'younger'
     },
     set9: {
-        question: "This phone is the___. Don't lose it!",
+        question: "This phone is the ___. Don't lose it!",
         answer: "smallest"
     },
     set10: {
-        question: "This game is___. That one's hard.",
+        question: "This game is ___. That one's hard.",
         answer: 'easier'
     },
 
@@ -360,43 +360,43 @@ var cards6 = {
 //class8
 var cards8 = {
     set1: {
-        question: "___is the best soccer player in our club?",
+        question: "___ is the best soccer player in our club?",
         answer: 'Who'
     },
     set2: {
-        question: "___is she always getting so angry?",
+        question: "___ is she always getting so angry?",
         answer: 'Why'
     },
     set3: {
-        question: "___is the best place for us to meet?",
+        question: "___ is the best place for us to meet?",
         answer: 'Where'
     },
     set4: {
-        question: "___your brother older or younger than you?",
+        question: "___ your brother older or younger than you?",
         answer: 'Is'
     },
     set5: {
-        question: "___is the movie? I only like short ones.",
+        question: "___ is the movie? I only like short ones.",
         answer: 'How long'
     },
     set6: {
-        question: "___toy is the best? They both look good!",
+        question: "___ toy is the best? They both look good!",
         answer: 'Which'
     },
     set7: {
-        question: "___you want to make a lot of money?",
+        question: "___ you want to make a lot of money?",
         answer: 'Do'
     },
     set8: {
-        question: "___is the easiest way to get there?",
+        question: "___ is the easiest way to get there?",
         answer: 'What'
     },
     set9: {
-        question: "___money do you have? I forgot my wallet!",
+        question: "___ money do you have? I forgot my wallet!",
         answer: "How much"
     },
     set10: {
-        question: "___did you move here? Last year.",
+        question: "___ did you move here? Last year.",
         answer: 'When'
     },
 
@@ -404,43 +404,43 @@ var cards8 = {
 //class9
 var cards9 = {
     set1: {
-        question: "___you want to travel abroad?",
+        question: "___ you want to travel abroad?",
         answer: 'Do'
     },
     set2: {
-        question: "___color is best? Blue or red?",
+        question: "___ color is best? Blue or red?",
         answer: 'Which'
     },
     set3: {
-        question: "___can we meet? I miss you!",
+        question: "___ can we meet? I miss you!",
         answer: 'When'
     },
     set4: {
-        question: "___is that in your hand? A coin?",
+        question: "___ is that in your hand? A coin?",
         answer: 'What'
     },
     set5: {
-        question: "___do you know about dogs?",
+        question: "___ do you know about dogs?",
         answer: 'How much'
     },
     set6: {
-        question: "___do you think is the faster runner?",
+        question: "___ do you think is the faster runner?",
         answer: 'Who'
     },
     set7: {
-        question: "___did you put it? I can't find it!",
+        question: "___ did you put it? I can't find it!",
         answer: 'Where'
     },
     set8: {
-        question: "___your friend coming today?",
+        question: "___ your friend coming today?",
         answer: 'Is'
     },
     set9: {
-        question: "___do you like it? I hate it!",
+        question: "___ do you like it? I hate it!",
         answer: "Why"
     },
     set10: {
-        question: "___do you sleep each night? A lot?",
+        question: "___ do you sleep each night? A lot?",
         answer: 'How long'
     },
 
@@ -448,43 +448,43 @@ var cards9 = {
 //class10
 var cards10 = {
     set1: {
-        question: "If we finish studying, we___.",
+        question: "If we finish studying, we ___.",
         answer: 'will go outside and play'
     },
     set2: {
-        question: "If I work too hard, I___",
-        answer: 'may quit the job.'
+        question: "If I work too hard, I ___.",
+        answer: 'may quit the job'
     },
     set3: {
-        question: "If you don't wear a coat, you___.",
+        question: "If you don't wear a coat, you ___.",
         answer: 'may catch a cold'
     },
     set4: {
-        question: "If I can buy a ticket, I___.",
+        question: "If I can buy a ticket, I ___.",
         answer: 'will go and see the show'
     },
     set5: {
-        question: "If you train hard, you___.",
+        question: "If you train hard, you ___.",
         answer: 'can be a champion'
     },
     set6: {
-        question: "If I go to America, I___.",
+        question: "If I go to America, I ___.",
         answer: 'will try to speak english'
     },
     set7: {
-        question: "If we go to the party, we___.",
+        question: "If we go to the party, we ___.",
         answer: 'may dance for a long time'
     },
     set8: {
-        question: "If you eat healthy food, you___.",
+        question: "If you eat healthy food, you ___.",
         answer: 'will feel much better'
     },
     set9: {
-        question: "If I wear my glasses, I___.",
+        question: "If I wear my glasses, I ___.",
         answer: "will see much better"
     },
     set10: {
-        question: "If we go to the restaurant, we___.",
+        question: "If we go to the restaurant, we ___.",
         answer: 'can try the new menu'
     },
 
@@ -492,43 +492,43 @@ var cards10 = {
 //class11
 var cards11 = {
     set1: {
-        question: "If I see my friend again, I will___.",
+        question: "If I see my friend again, I will ___.",
         answer: 'hug her'
     },
     set2: {
-        question: "If we cannot do it, we will___.",
+        question: "If we cannot do it, we will ___.",
         answer: 'need help'
     },
     set3: {
-        question: "If we buy it today, we can___.",
+        question: "If we buy it today, we can ___.",
         answer: 'take it home'
     },
     set4: {
-        question: "If I buy a cheaper one, I will___.",
+        question: "If I buy a cheaper one, I will ___.",
         answer: 'save money'
     },
     set5: {
-        question: "If you sit too long, you may___.",
+        question: "If you sit too long, you may ___.",
         answer: 'fall asleep'
     },
     set6: {
-        question: "If you use an alarm, you can___.",
+        question: "If you use an alarm, you can ___.",
         answer: 'get up early'
     },
     set7: {
-        question: "If we try that game, we may___.",
+        question: "If we try that game, we may ___.",
         answer: 'enjoy playing it'
     },
     set8: {
-        question: "If you punch him, you will___.",
+        question: "If you punch him, you will ___.",
         answer: 'be in trouble'
     },
     set9: {
-        question: "If I see that cake, I may sit and___.",
+        question: "If I see that cake, I may sit and ___.",
         answer: "eat it"
     },
     set10: {
-        question: "If I save money, I can___.",
+        question: "If I save money, I can ___.",
         answer: 'travel more'
     },
 
@@ -537,43 +537,43 @@ var cards11 = {
 //class12
 var cards12 = {
     set1: {
-        question: 'I have to say sorry because I___.',
+        question: 'I have to say sorry because I ___.',
         answer: 'forgot her birthday'
     },
     set2: {
-        question: 'We need to go back so we___.',
+        question: 'We need to go back so we ___.',
         answer: 'can find our bags'
     },
     set3: {
-        question: 'You must eat more because you___.',
+        question: 'You must eat more because you ___.',
         answer: 'look so thin'
     },
     set4: {
-        question: "I don't have to go so I___.",
+        question: "I don't have to go so I ___.",
         answer: 'will relax at home'
     },
     set5: {
-        question: "You don't need to help me because you___.",
+        question: "You don't need to help me because you ___.",
         answer: 'need a break'
     },
     set6: {
-        question: "We mustn't change our plans so we___.",
+        question: "We mustn't change our plans so we ___.",
         answer: 'can arrange the trip'
     },
     set7: {
-        question: 'I should try again because I___.',
+        question: 'I should try again because I ___.',
         answer: 'really want to pass'
     },
     set8: {
-        question: 'You should study more so you___.',
+        question: 'You should study more so you ___.',
         answer: 'can improve your English'
     },
     set9: {
-        question: "We shouldn't fight because we___!",
+        question: "We shouldn't fight because we ___!",
         answer: 'love each other'
     },
     set10: {
-        question: "You shouldn't stay up late so you___.",
+        question: "You shouldn't stay up late so you ___.",
         answer: 'can get up tomorrow'
     },
 
@@ -581,43 +581,43 @@ var cards12 = {
 //class13
 var cards13 = {
     set1: {
-        question: "You have to practice so you___.",
+        question: "You have to practice so you ___.",
         answer: 'can improve'
     },
     set2: {
-        question: "I need to see John because I___.",
+        question: "I need to see John because I ___.",
         answer: 'love him'
     },
     set3: {
-        question: "We must go now so we___.",
+        question: "We must go now so we ___.",
         answer: "aren't late"
     },
     set4: {
-        question: "You don't have to pay because___.",
+        question: "You don't have to pay because ___.",
         answer: "it's my turn"
     },
     set5: {
-        question: "I don't need to move so I___.",
+        question: "I don't need to move so I ___.",
         answer: 'can stay here'
     },
     set6: {
-        question: "We mustn't cheat because we___.",
+        question: "We mustn't cheat because we ___.",
         answer: "won't learn"
     },
     set7: {
-        question: "You should be tough so you___.",
+        question: "You should be tough so you ___.",
         answer: "don't cry"
     },
     set8: {
-        question: "I should try it because___.",
+        question: "I should try it because ___.",
         answer: "it's new"
     },
     set9: {
-        question: "We shouldn't lie to Jane so we___.",
+        question: "We shouldn't lie to Jane so we ___.",
         answer: "don't hurt her"
     },
     set10: {
-        question: "I shouldn't sell it because I___.",
+        question: "I shouldn't sell it because I ___.",
         answer: 'want to keep it'
     },
 
