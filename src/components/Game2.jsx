@@ -7,88 +7,88 @@ import { useParams } from 'react-router-dom'
 //class0
 var cards0 = {
     set1: {
-        question: "A___is a good pet. SC2",
-        answer: 'dogSC2'
+        question: "A___is a good pet.",
+        answer: 'dog'
     },
     set2: {
-        question: "I saw a bird___today. SC2",
-        answer: 'flySC2'
+        question: "I saw a bird___today.",
+        answer: 'fly'
     },
     set3: {
-        question: "I want to drink___. SC2",
-        answer: 'waterSC2'
+        question: "I want to drink___.",
+        answer: 'water'
     },
     set4: {
-        question: "Let's take a___. SC2",
-        answer: 'breakSC2'
+        question: "Let's take a___.",
+        answer: 'break'
     },
     set5: {
-        question: "I live in a___. SC2",
-        answer: 'houseSC2'
+        question: "I live in a___.",
+        answer: 'house'
     },
     set6: {
-        question: "I always___to work. SC2",
-        answer: 'walkSC2'
+        question: "I always___to work.",
+        answer: 'walk'
     },
     set7: {
-        question: "I like to eat___. SC2",
-        answer: 'sandwichesSC2'
+        question: "I like to eat___.",
+        answer: 'sandwiches'
     },
     set8: {
-        question: "We saw a___at the zoo. SC2",
-        answer: 'lionSC2'
+        question: "We saw a___at the zoo.",
+        answer: 'lion'
     },
     set9: {
-        question: "He likes to study at___. SC2",
-        answer: "schoolSC2"
+        question: "He likes to study at___.",
+        answer: "school"
     },
     set10: {
-        question: "She can fly a___. SC2",
-        answer: 'planeSC2'
+        question: "She can fly a___.",
+        answer: 'plane'
     },
 
 }
 //class0b
 var cards0b = {
     set1: {
-        question: "‘A’ stands for___in this book. SC2",
-        answer: 'Action SC2'
+        question: "‘A’ stands for___in this book.",
+        answer: 'Action'
     },
     set2: {
-        question: "The 2nd section is called___. SC2",
-        answer: 'SMART CHECK! SC2'
+        question: "The 2nd section is called___.",
+        answer: 'SMART CHECK!'
     },
     set3: {
-        question: "‘T’ stands for___in this book. SC2",
-        answer: 'Time SC2'
+        question: "‘T’ stands for___in this book.",
+        answer: 'Time'
     },
     set4: {
-        question: "The 3rd section is called___. SC2",
-        answer: 'Challenge!SC2'
+        question: "The 3rd section is called___.",
+        answer: 'Challenge!'
     },
     set5: {
-        question: "‘S’ stands for___in this book. SC2",
-        answer: 'SkillSC2'
+        question: "‘S’ stands for___in this book.",
+        answer: 'Skill'
     },
     set6: {
-        question: "‘R’ stands for___in this book.SC2",
-        answer: 'ResultSC2'
+        question: "‘R’ stands for___in this book.",
+        answer: 'Result'
     },
     set7: {
-        question: "The 1st section is called___.SC2",
-        answer: 'Ready!SC2'
+        question: "The 1st section is called___.",
+        answer: 'Ready!'
     },
     set8: {
-        question: "‘M’ stands for___in this book. SC2",
-        answer: 'MeasureSC2'
+        question: "‘M’ stands for___in this book.",
+        answer: 'Measure'
     },
     set9: {
-        question: "This game is in___. SC2",
-        answer: "Class 0SC2"
+        question: "This game is in___.",
+        answer: "Class 0"
     },
     set10: {
-        question: "This game is called___. SC2",
-        answer: 'CONNECT!SC2'
+        question: "This game is called___.",
+        answer: 'CHAMPION CONNECT!'
     },
 
 }
