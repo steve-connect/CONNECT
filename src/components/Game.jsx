@@ -484,7 +484,7 @@ var cards10 = {
         answer: "will see much better"
     },
     set10: {
-        question: "If we go there, we___.",
+        question: "If we go to the restaurant, we___.",
         answer: 'can try the new menu'
     },
 
