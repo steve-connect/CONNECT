@@ -8,7 +8,7 @@ import { useParams } from 'react-router-dom'
 var cards0 = {
     set1: {
         question: "A___is a good pet. SC2",
-        answer: 'dragonSC2'
+        answer: 'dogSC2'
     },
     set2: {
         question: "I saw a bird___today. SC2",
@@ -72,7 +72,7 @@ var cards0b = {
     },
     set6: {
         question: "‘R’ stands for___in this book.SC2",
-        answer: 'ReasonSC2'
+        answer: 'ResultSC2'
     },
     set7: {
         question: "The 1st section is called___.SC2",
@@ -108,7 +108,7 @@ var cards1 = {
     },
     set4: {
         question: "I really don’t think___!",
-        answer: 'a really smart person'
+        answer: 'we should go. It’s too far'
     },
     set5: {
         question: "She might be___.",
@@ -139,44 +139,44 @@ var cards1 = {
 //class2
 var cards2 = {
     set1: {
-        question: "I___reading because it is fun.",
-        answer: 'like'
+        question: "I___New York is great. It’s so fun!",
+        answer: 'think'
     },
     set2: {
-        question: "I’m___TV because it is boring.",
-        answer: 'not interested in'
+        question: "Cooking___fun so let’s try it!",
+        answer: 'could be'
     },
     set3: {
-        question: "She’s___it because she practices.",
-        answer: 'good at'
+        question: "Driving___be safe in the rain.",
+        answer: 'may not'
     },
     set4: {
-        question: "He’s___it because he is brave.",
-        answer: 'not scared of'
+        question: "We___if it will rain. Let’s stay inside.",
+        answer: 'don’t know'
     },
     set5: {
-        question: "I___him because he is incredible!",
-        answer: 'love'
+        question: "I___think chess is fun. It’s boring!",
+        answer: 'don’t'
     },
     set6: {
-        question: "I___curry because it’s too spicy!",
-        answer: 'hate'
+        question: "I___not think cats are nice pets.",
+        answer: 'really do'
     },
     set7: {
-        question: "He’s___me because I punch him.",
-        answer: 'scared of'
+        question: "We___think it is hard and hate it!",
+        answer: 'definitely'
     },
     set8: {
-        question: "I’m___it because I don’t practice.",
-        answer: 'not good at'
+        question: "Yoga___be painful for me. I’m old!",
+        answer: 'might'
     },
     set9: {
-        question: "I___like math because it’s hard.",
-        answer: "don't"
+        question: "I___sure which shirt is the best.",
+        answer: 'am not'
     },
     set10: {
-        question: "She’s___it because it looks cool.",
-        answer: 'interested in'
+        question: "It will___rain. Look at the clouds.",
+        answer: 'probably'
     },
 
 }
@@ -184,44 +184,44 @@ var cards2 = {
 //class3
 var cards3 = {
     set1: {
-        question: 'Your house is___so we can get ther sooner.',
-        answer: 'closer'
+        question: 'I like to travel___meet new people.',
+        answer: 'because I can'
     },
     set2: {
-        question: "It's the most___. I want to spend less money.",
-        answer: 'expensive'
+        question: "A book is great___less exciting than TV.",
+        answer: 'but it’s'
     },
     set3: {
-        question: "That road is the___. Let's go a quicker way.",
-        answer: 'longest'
+        question: "I want to eat cake___delicious than pie.",
+        answer: 'because it’s more'
     },
     set4: {
-        question: "Going by train is___. A bike is too slow.",
-        answer: 'faster'
+        question: "I like to use stairs___overweight.",
+        answer: 'because I’m'
     },
     set5: {
-        question: "The food is yummy! It's easily the most___.",
-        answer: 'delicious'
+        question: "I need a car___convenient way to travel.",
+        answer: 'because it’s the most'
     },
     set6: {
-        question: "The car is___. There is more space.",
-        answer: 'bigger'
+        question: "I prefer summer___to play outside.",
+        answer: 'because it’s nice'
     },
     set7: {
-        question: 'I cannot win. This game is the most___.',
-        answer: 'difficult'
+        question: 'I love dogs___always play with me.',
+        answer: 'because they’ll'
     },
     set8: {
-        question: "This is the most___flower I have ever seen.",
-        answer: 'beautiful'
+        question: "Fast food is really cheap___is unhealthy.",
+        answer: 'although it'
     },
     set9: {
-        question: "Slow down. I am tired. I'm___than you!",
-        answer: "older"
+        question: "I need a bike___quicker than a car.",
+        answer: "because it’s sometimes"
     },
     set10: {
-        question: "That time is much more___for me. Thanks!",
-        answer: 'convenient'
+        question: "A phone is good___help me study faster.",
+        answer: 'because it might'
     },
 
 }
