@@ -7,88 +7,88 @@ import { useParams } from 'react-router-dom'
 //class0
 var cards0 = {
     set1: {
-        question: "3A___is a good pet.",
-        answer: '3dog'
+        question: "A___is a good pet.",
+        answer: 'dog'
     },
     set2: {
-        question: "3I saw a bird___today.",
-        answer: '3fly'
+        question: "I saw a bird___today.",
+        answer: 'fly'
     },
     set3: {
-        question: "3I want to drink___.",
-        answer: '3water'
+        question: "I want to drink___.",
+        answer: 'water'
     },
     set4: {
-        question: "3Let's take a___.",
-        answer: '3break'
+        question: "Let's take a___.",
+        answer: 'break'
     },
     set5: {
-        question: "3I live in a___.",
-        answer: '3house'
+        question: "I live in a___.",
+        answer: 'house'
     },
     set6: {
-        question: "3I always___to work.",
-        answer: '3walk'
+        question: "I always___to work.",
+        answer: 'walk'
     },
     set7: {
-        question: "3I like to eat___.",
-        answer: '3sandwiches'
+        question: "I like to eat___.",
+        answer: 'sandwiches'
     },
     set8: {
-        question: "3We saw a___at the zoo.",
-        answer: '3lion'
+        question: "We saw a___at the zoo.",
+        answer: 'lion'
     },
     set9: {
-        question: "3He likes to study at___.",
-        answer: "3school"
+        question: "He likes to study at___.",
+        answer: "school"
     },
     set10: {
-        question: "3She can fly a___.",
-        answer: '3plane'
+        question: "She can fly a___.",
+        answer: 'plane'
     },
 
 }
 //class0b
 var cards0b = {
     set1: {
-        question: "3‘A’ stands for___in this book.",
-        answer: '3Action'
+        question: "‘A’ stands for___in this book.",
+        answer: 'Action'
     },
     set2: {
-        question: "3The 2nd section is called___.",
-        answer: '3SMART CHECK!'
+        question: "The 2nd section is called___.",
+        answer: 'SMART CHECK!'
     },
     set3: {
-        question: "3‘T’ stands for___in this book.",
-        answer: '3Time'
+        question: "‘T’ stands for___in this book.",
+        answer: 'Time'
     },
     set4: {
-        question: "3The 3rd section is called___.",
-        answer: '3Challenge!'
+        question: "The 3rd section is called___.",
+        answer: 'Challenge!'
     },
     set5: {
-        question: "3‘S’ stands for___in this book.",
-        answer: '3Skill'
+        question: "‘S’ stands for___in this book.",
+        answer: 'Skill'
     },
     set6: {
         question: "3‘R’ stands for___in this book.",
-        answer: '3Result'
+        answer: 'Result'
     },
     set7: {
         question: "3The 1st section is called___.",
-        answer: '3Ready!'
+        answer: 'Ready!'
     },
     set8: {
         question: "3‘M’ stands for___in this book.",
-        answer: '3Measure'
+        answer: 'Measure'
     },
     set9: {
         question: "3This game is in___.",
-        answer: "3Class 0"
+        answer: "Class 0"
     },
     set10: {
         question: "3This game is called___.",
-        answer: '3CONNECT!'
+        answer: 'CHAMPION CONNECT!'
     },
 
 }
