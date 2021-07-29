@@ -228,132 +228,132 @@ var cards3 = {
 //class4
 var cards4 = {
     set1: {
-        question: "It's the___from here. It's far away.",
-        answer: 'furthest'
+        question: "English helps me___useful for travel.",
+        answer: 'because it’s'
     },
     set2: {
-        question: "It's___than this. It's not pretty!",
-        answer: 'uglier'
+        question: "Let’s go there___play baseball together.",
+        answer: 'because we can'
     },
     set3: {
-        question: "Walking is the___way. Let's drive!",
-        answer: 'slowest'
+        question: "A cat is better___intelligent than a dog.",
+        answer: 'because it’s more'
     },
     set4: {
-        question: "My salad is___than that. It burns!",
-        answer: 'spicier'
+        question: "Sleep feels nice___study to pass tests!",
+        answer: 'but you need to'
     },
     set5: {
-        question: "It's the___location for everyone.",
-        answer: 'least convenient'
+        question: "I don’t think parties are fun___very shy.",
+        answer: 'because I’m'
     },
     set6: {
-        question: "That ticket is___. Save your money!",
-        answer: 'cheaper'
+        question: "Travel is educational___expensive.",
+        answer: 'although it’s'
     },
     set7: {
-        question: "I'm so busy. Let's watch a___show.",
-        answer: 'shorter'
+        question: "Computers are stupid___freeze.",
+        answer: 'as they sometimes'
     },
     set8: {
-        question: "I'm___than him. He's really old!",
-        answer: 'younger'
+        question: "Seat belts are important___crash.",
+        answer: 'because you might'
     },
     set9: {
-        question: "This phone is the___. Don't lose it!",
-        answer: "smallest"
+        question: "I prefer a taxi___quickest way.",
+        answer: "because it’s the"
     },
     set10: {
-        question: "This game is___. That one's hard.",
-        answer: 'easier'
+        question: "I need a job___graduate soon.",
+        answer: 'because I’ll'
     },
 
 }
 //class5
 var cards5 = {
     set1: {
-        question: "I___to get a great job after university.",
-        answer: 'hope'
+        question: "___make our scores better so let's use it!",
+        answer: 'It’s clear that it will'
     },
     set2: {
-        question: "We___eating junk food. It's terrible.",
-        answer: 'dislike'
+        question: "Dress well today.___look smart at work!",
+        answer: 'You need to'
     },
     set3: {
-        question: "I___about changing my job when my boss shouts.",
-        answer: 'think'
+        question: "___to be nice so I should help people more.",
+        answer: 'It’s very important'
     },
     set4: {
-        question: "We really___playing games together. It's fun.",
-        answer: 'enjoy'
+        question: "___sit and relax so we love watching TV.",
+        answer: 'We especially like to'
     },
     set5: {
-        question: "I___to eat that cake. It looks delicious.",
-        answer: 'want'
+        question: "Can we take a break?___eyes for a while.",
+        answer: 'We must rest our'
     },
     set6: {
-        question: "We can't___meeting him.It would be unreal!",
-        answer: 'imagine'
+        question: "___money so fast food is a good choice.",
+        answer: 'Students want to save'
     },
     set7: {
-        question: "I___to buy new shoes. These ones are broken.",
-        answer: 'need'
+        question: "___friends are loud. It’s best to study alone.",
+        answer: 'The truth is that'
     },
     set8: {
-        question: "We often___eating quickly. After 1 minute!",
-        answer: 'finish'
+        question: "Let’s go again tomorrow!___amazing there!",
+        answer: 'It’s absolutely'
     },
     set9: {
-        question: "After thinking about it, I___ to talk to her.",
-        answer: "decided"
+        question: "___helps me speak more so I like that class.",
+        answer: "It specifically"
     },
     set10: {
-        question: "When I___ to cry, please turn the movie off.",
-        answer: 'start'
+        question: "___on time for the meeting so let’s go by car.",
+        answer: 'We should be'
     },
 
 }
 //class6
 var cards6 = {
     set1: {
-        question: "I___to study harder or I'll fail.",
-        answer: 'need'
+        question: "Tablets are better as___for us to use.",
+        answer: 'they’re very easy'
     },
     set2: {
-        question: "Let's___playing this. It's boring.",
-        answer: 'finish'
+        question: "Dogs are great and___help old people.",
+        answer: 'they especially'
     },
     set3: {
-        question: "We've___to get married!",
-        answer: 'decided'
+        question: "I hate class___prefer to sleep in late.",
+        answer: 'because the truth is I'
     },
     set4: {
-        question: "I___to play it now. I can't wait!",
-        answer: 'want'
+        question: "Students should cook___eat junk food.",
+        answer: 'as they shouldn’t'
     },
     set5: {
-        question: "My kids often___living on the moon.",
-        answer: 'imagine'
+        question: "Let’s take a taxi because___be late.",
+        answer: 'we don’t want to'
     },
     set6: {
-        question: "I really___talking with you. Thanks.",
-        answer: 'enjoy'
+        question: "Suits are good___help at interviews.",
+        answer: 'and they specifically'
     },
     set7: {
-        question: "When I___about eating pie I smile.",
-        answer: 'think'
+        question: "Use cash___carry a credit card around!",
+        answer: 'as you mustn’t'
     },
     set8: {
-        question: "We___to see you again some day.",
-        answer: 'hope'
+        question: "Eat more fruit___it’s good for you.",
+        answer: 'as it’s clear that'
     },
     set9: {
-        question: "I___loud music. It hurts my ears.",
-        answer: "dislike"
+        question: "Let’s go to that park because___great!",
+        answer: "it’s absolutely"
     },
     set10: {
-        question: "Let's___doing it now and finish early.",
-        answer: 'start'
+        question: "Homework is stupid as___more work.",
+        answer: 'students don’t need'
     },
 
 }
