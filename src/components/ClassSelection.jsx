@@ -20,7 +20,7 @@ function ClassSelection(props) {
         <h1>Select your Class</h1>
         <div className='class-selection'>
             <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0/0`)}}>
-                <h1 style={{backgroundColor: color1, color:'white'}}>Class 0</h1>
+                <h1 style={{backgroundColor: color1, color:'white'}}>Class 0 (page 12)</h1>
             </div>
             <div className='class-number' onClick={()=>{selectClass(`/start/${textbook}/class0b/0b`)}}>
                 <h1 style={{backgroundColor: color1, color:'white'}}>Class 0b</h1>
