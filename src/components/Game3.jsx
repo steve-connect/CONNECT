@@ -139,44 +139,44 @@ var cards1 = {
 //class2
 var cards2 = {
     set1: {
-        question: "3I___reading because it is fun.",
-        answer: '3like'
+        question: "___ study some English today.",
+        answer: 'Maybe we should'
     },
     set2: {
-        question: "3I’m___TV because it is boring.",
-        answer: '3not interested in'
+        question: "___ got to try something fun together.",
+        answer: 'I think we have'
     },
     set3: {
-        question: "3She’s___it because she practices.",
-        answer: '3good at'
+        question: "___ we try to start the party early.",
+        answer: 'I suggest that'
     },
     set4: {
-        question: "3He’s___it because he is brave.",
-        answer: '3not scared of'
+        question: "___ for helping people play games.",
+        answer: 'It’s possibly good'
     },
     set5: {
-        question: "3I___him because he is incredible!",
-        answer: '3love'
+        question: "___ helpful for some students.",
+        answer: 'That could be'
     },
     set6: {
-        question: "3I___curry because it’s too spicy!",
-        answer: '3hate'
+        question: "___ some and see which is best?",
+        answer: 'Why don’t we eat'
     },
     set7: {
-        question: "3He’s___me because I punch him.",
-        answer: '3scared of'
+        question: "___ to a hotel with a nice beach!",
+        answer: 'Let’s go'
     },
     set8: {
-        question: "3I’m___it because I don’t practice.",
-        answer: '3not good at'
+        question: "___ outdoors would be fun for us?",
+        answer: 'Do you think'
     },
     set9: {
-        question: "3I___like math because it’s hard.",
-        answer: "3don't"
+        question: "___ buying a nice present for him?",
+        answer: "How about"
     },
     set10: {
-        question: "3She’s___it because it looks cool.",
-        answer: '3interested in'
+        question: "___ is dressing up in funny clothes!",
+        answer: 'The best choice'
     },
 
 }
