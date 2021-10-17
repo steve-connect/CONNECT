@@ -95,44 +95,44 @@ var cards0b = {
 //class1
 var cards1 = {
     set1: {
-        question: '3I___pizza because it tastes good.',
-        answer: '3like'
+        question: 'How about ___? It’s cheap and quite fun!',
+        answer: 'traveling by train'
     },
     set2: {
-        question: '3I___spiders because they are scary!',
-        answer: '3hate'
+        question: 'Why don’t we ___? It’s got lots of fun places.',
+        answer: 'go to that city'
     },
     set3: {
-        question: "3I'm___snakes because they bite.",
-        answer: '3scared of'
+        question: "Do you think ___? It’s fun and good exercise.",
+        answer: 'dancing would be good'
     },
     set4: {
-        question: "3I'm___English because I study hard.",
-        answer: '3good at'
+        question: "I suggest ___ because we get tired quickly.",
+        answer: 'taking a lot of breaks'
     },
     set5: {
-        question: "3I'm___running because I don't train",
-        answer: '3not good'
+        question: "Maybe ___ because we can see beautful art.",
+        answer: 'we could go to a museum'
     },
     set6: {
-        question: "3I'm___fashion because it is cool.",
-        answer: '3interested in'
+        question: "It could be ___ because the boss is nice.",
+        answer: 'fun to work there'
     },
     set7: {
-        question: '3I___my mother because she is amazing!',
-        answer: '3love'
+        question: 'We could possibly ___ because they live alone.',
+        answer: 'help some older people'
     },
     set8: {
-        question: "3I'm___sports because they are hard.",
-        answer: '3not interested in'
+        question: "Let’s ___ because we can share books easily.",
+        answer: 'start a reading club'
     },
     set9: {
-        question: "3I___rain because I get wet.",
-        answer: "3don't like"
+        question: "We’ve got to ___ because we are getting fat!",
+        answer: "order healthy food"
     },
     set10: {
-        question: "3I'm___falling because I am brave.",
-        answer: '3not afraid of'
+        question: "It’s the best choice ___ because it’s fun.",
+        answer: 'for students to try'
     },
 
 }
