@@ -184,88 +184,88 @@ var cards2 = {
 //class3
 var cards3 = {
     set1: {
-        question: '3Your house is___so we can get ther sooner.',
-        answer: '3closer'
+        question: '___ you think that will be a cheaper idea?',
+        answer: ' Why do'
     },
     set2: {
-        question: "3It's the most___. I want to spend less money.",
-        answer: '3expensive'
+        question: "___ break it and can’t fix it by themselves?",
+        answer: ' What if they'
     },
     set3: {
-        question: "3That road is the___. Let's go a quicker way.",
-        answer: '3longest'
+        question: "___ sure that everyone takes part in it?",
+        answer: ' How will we make'
     },
     set4: {
-        question: "3Going by train is___. A bike is too slow.",
-        answer: '3faster'
+        question: "___ best one after we try a few first?",
+        answer: 'Could we choose the'
     },
     set5: {
-        question: "3The food is yummy! It's easily the most___.",
-        answer: '3delicious'
+        question: "___ to check that the location is okay?",
+        answer: 'Should we go there'
     },
     set6: {
-        question: "3The car is___. There is more space.",
-        answer: '3bigger'
+        question: "___ customer understand how to use it?",
+        answer: 'How can a'
     },
     set7: {
-        question: '3I cannot win. This game is the most___.',
-        answer: '3difficult'
+        question: '___ asking some more people to help us?',
+        answer: 'Would we save time by'
     },
     set8: {
-        question: "3This is the most___flower I have ever seen.",
-        answer: '3beautiful'
+        question: "___ it ourselves save us some time?",
+        answer: 'Will cooking'
     },
     set9: {
-        question: "3Slow down. I am tired. I'm___than you!",
-        answer: "3older"
+        question: "___ it could rain and people won’t come?",
+        answer: "Is it possible that"
     },
     set10: {
-        question: "3That time is much more___for me. Thanks!",
-        answer: '3convenient'
+        question: "___ of presents should we all bring?",
+        answer: 'What kind'
     },
 
 }
 //class4
 var cards4 = {
     set1: {
-        question: "3It's the___from here. It's far away.",
-        answer: '3furthest'
+        question: "___ idea for us to do it on a weekend?",
+        answer: 'Why is it a better'
     },
     set2: {
-        question: "3It's___than this. It's not pretty!",
-        answer: '3uglier'
+        question: "___ better at communicating in English?",
+        answer: 'Would we get'
     },
     set3: {
-        question: "3Walking is the___way. Let's drive!",
-        answer: '3slowest'
+        question: "___ learn how to use it on their own?",
+        answer: 'How can people'
     },
     set4: {
-        question: "3My salad is___than that. It burns!",
-        answer: '3spicier'
+        question: "___ we be able to arrive at on time?",
+        answer: 'What place would'
     },
     set5: {
-        question: "3It's the___location for everyone.",
-        answer: '3least convenient'
+        question: "___ help each other practice it?",
+        answer: 'Could we try to'
     },
     set6: {
-        question: "3That ticket is___. Save your money!",
-        answer: '3cheaper'
+        question: "___ lot of time to get it ready?",
+        answer: 'Will it take a'
     },
     set7: {
-        question: "3I'm so busy. Let's watch a___show.",
-        answer: '3shorter'
+        question: "___ can’t be done by the deadline?",
+        answer: 'What if it'
     },
     set8: {
-        question: "3I'm___than him. He's really old!",
-        answer: '3younger'
+        question: "___ it first and see if it tastes good?",
+        answer: 'Should we eat'
     },
     set9: {
-        question: "3This phone is the___. Don't lose it!",
-        answer: "3smallest"
+        question: "___ us to get some extra ideas?",
+        answer: "Is it possible for"
     },
     set10: {
-        question: "3This game is___. That one's hard.",
-        answer: '3easier'
+        question: "___ when it’s finished and safe?",
+        answer: 'How will we know'
     },
 
 }
