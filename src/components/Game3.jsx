@@ -272,44 +272,44 @@ var cards4 = {
 //class5
 var cards5 = {
     set1: {
-        question: "3I___to get a great job after university.",
-        answer: '3hope'
+        question: "Working different hours ___ make more money!",
+        answer: ' won’t mean that you'
     },
     set2: {
-        question: "3We___eating junk food. It's terrible.",
-        answer: '3dislike'
+        question: "Using translators ___ the museum tour more.",
+        answer: ' will help people understand'
     },
     set3: {
-        question: "3I___about changing my job when my boss shouts.",
-        answer: '3think'
+        question: "Meeting in the city ___ who live far away.",
+        answer: ' will be hard for those'
     },
     set4: {
-        question: "3We really___playing games together. It's fun.",
-        answer: '3enjoy'
+        question: "Adding nice art ___ and pay to look around.",
+        answer: ' will mean that more enter'
     },
     set5: {
-        question: "3I___to eat that cake. It looks delicious.",
-        answer: '3want'
+        question: "Adding more computers ___ more effectively.",
+        answer: ' won’t help students study'
     },
     set6: {
-        question: "3We can't___meeting him.It would be unreal!",
-        answer: '3imagine'
+        question: "Walking every day ___ keeps you in shape.",
+        answer: ' is important because it'
     },
     set7: {
-        question: "3I___to buy new shoes. These ones are broken.",
-        answer: '3need'
+        question: "Learning Spanish ___ of us already study it.",
+        answer: ' will be easy because some'
     },
     set8: {
-        question: "3We often___eating quickly. After 1 minute!",
-        answer: '3finish'
+        question: "This town ___ as it already has a good one.",
+        answer: ' doesn’t need a new station'
     },
     set9: {
-        question: "3After thinking about it, I___ to talk to her.",
-        answer: "3decided"
+        question: "Ordering a cake ___ will bring other snacks.",
+        answer: " isn’t important because we"
     },
     set10: {
-        question: "3When I___ to cry, please turn the movie off.",
-        answer: '3start'
+        question: "The customers ___ as they usually drive here.",
+        answer: ' need lots of parking spaces'
     },
 
 }
