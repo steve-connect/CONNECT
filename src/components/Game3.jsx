@@ -316,44 +316,44 @@ var cards5 = {
 //class6
 var cards6 = {
     set1: {
-        question: "3I___to study harder or I'll fail.",
-        answer: '3need'
+        question: "Hotels are ___ they are usually safe.",
+        answer: 'important because'
     },
     set2: {
-        question: "3Let's___playing this. It's boring.",
-        answer: '3finish'
+        question: "Gates ___ because kids like to climb.",
+        answer: 'will help parents'
     },
     set3: {
-        question: "3We've___to get married!",
-        answer: '3decided'
+        question: "Dieting won’t ___ become healthier.",
+        answer: 'always help you'
     },
     set4: {
-        question: "3I___to play it now. I can't wait!",
-        answer: '3want'
+        question: "We don’t ___ something so expensive.",
+        answer: 'need to build'
     },
     set5: {
-        question: "3My kids often___living on the moon.",
-        answer: '3imagine'
+        question: "Buying new tools ___ for productivity.",
+        answer: 'isn’t important'
     },
     set6: {
-        question: "3I really___talking with you. Thanks.",
-        answer: '3enjoy'
+        question: "More friends ___ be a better party.",
+        answer: 'won’t mean it will'
     },
     set7: {
-        question: "3When I___about eating pie I smile.",
-        answer: '3think'
+        question: "A restaurant ___ us to split the check!",
+        answer: 'will be easy for'
     },
     set8: {
-        question: "3We___to see you again some day.",
-        answer: '3hope'
+        question: "Direct flights ___ we have more time.",
+        answer: 'will mean that'
     },
     set9: {
-        question: "3I___loud music. It hurts my ears.",
-        answer: "3dislike"
+        question: "Morning classes ___ sleepy students!",
+        answer: "will be hard for"
     },
     set10: {
-        question: "3Let's___doing it now and finish early.",
-        answer: '3start'
+        question: "We really do ___ nice to go and relax.",
+        answer: 'need somewhere'
     },
 
 }
