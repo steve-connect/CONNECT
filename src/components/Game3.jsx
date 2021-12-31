@@ -360,44 +360,44 @@ var cards6 = {
 //class8
 var cards8 = {
     set1: {
-        question: "3___is the best soccer player in our club?",
-        answer: '3Who'
+        question: "I agree because it would probably be ___.",
+        answer: 'difficult for us to learn that skill'
     },
     set2: {
-        question: "3___is she always getting so angry?",
-        answer: '3Why'
+        question: "That’s right because we may want to ___.",
+        answer: 'have more time to relax alone'
     },
     set3: {
-        question: "3___is the best place for us to meet?",
-        answer: '3Where'
+        question: "I disagree because we don’t know if ___.",
+        answer: 'we will need to pay extra costs'
     },
     set4: {
-        question: "3___your brother older or younger than you?",
-        answer: '3Is'
+        question: "I totally disagree because it won’t ___.",
+        answer: 'help some people improve much'
     },
     set5: {
-        question: "3___is the movie? I only like short ones.",
-        answer: '3How long'
+        question: "That’s right and we also need to be ___.",
+        answer: 'sure that everyone can enjoy it'
     },
     set6: {
-        question: "3___toy is the best? They both look good!",
-        answer: '3Which'
+        question: "That’s right so let’s make sure not to ___.",
+        answer: 'spend too much time doing that'
     },
     set7: {
-        question: "3___you want to make a lot of money?",
-        answer: '3Do'
+        question: "Maybe, but it will be very hard to get ___.",
+        answer: 'it all together and ready on time'
     },
     set8: {
-        question: "3___is the easiest way to get there?",
-        answer: '3What'
+        question: "Some people think it’s boring, but it ___.",
+        answer: 'can be fun if you try it together'
     },
     set9: {
-        question: "3___money do you have? I forgot my wallet!",
-        answer: "3How much"
+        question: "I agree that it’s expensive, but we ___.",
+        answer: "can skip steps and save money"
     },
     set10: {
-        question: "3___did you move here? Last year.",
-        answer: '3When'
+        question: "It’s true that it is dangerous, but we’ll ___.",
+        answer: 'be fine if we obey all the rules'
     },
 
 }
