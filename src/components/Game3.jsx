@@ -404,44 +404,44 @@ var cards8 = {
 //class9
 var cards9 = {
     set1: {
-        question: "3___you want to travel abroad?",
-        answer: '3Do'
+        question: "___ can be too hard for some students.",
+        answer: 'I agree because it'
     },
     set2: {
-        question: "3___color is best? Blue or red?",
-        answer: '3Which'
+        question: "___ there’s little time, but let’s try!",
+        answer: 'I agree that'
     },
     set3: {
-        question: "3___can we meet? I miss you!",
-        answer: '3When'
+        question: "___ won’t improve her own English.",
+        answer: 'I disagree that she'
     },
     set4: {
-        question: "3___is that in your hand? A coin?",
-        answer: '3What'
+        question: "___ that idea as it isn’t needed now.",
+        answer: 'I disagree with'
     },
     set5: {
-        question: "3___do you know about dogs?",
-        answer: '3How much'
+        question: "___ think of some cheaper ideas.",
+        answer: 'That’s right so let’s'
     },
     set6: {
-        question: "3___do you think is the faster runner?",
-        answer: '3Who'
+        question: "___ it’s scary, but they’re wrong!",
+        answer: 'Some people think'
     },
     set7: {
-        question: "3___did you put it? I can't find it!",
-        answer: '3Where'
+        question: "___ another problem is the drinks.",
+        answer: 'That’s right and'
     },
     set8: {
-        question: "3___your friend coming today?",
-        answer: '3Is'
+        question: "___ hard, but we really need it!",
+        answer: 'It’s true that it’s'
     },
     set9: {
-        question: "3___do you like it? I hate it!",
-        answer: "3Why"
+        question: "___ probably easier to buy one.",
+        answer: "Maybe, but it’s"
     },
     set10: {
-        question: "3___do you sleep each night? A lot?",
-        answer: '3How long'
+        question: "___ said we needed a new one.",
+        answer: 'That’s right as he'
     },
 
 }
