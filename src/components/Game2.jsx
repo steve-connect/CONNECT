@@ -352,7 +352,7 @@ var cards6 = {
         answer: "it’s absolutely"
     },
     set10: {
-        question: "Homework is stupid as ___ more work.",
+        question: "Let's ban homework as ___ more work.",
         answer: 'students don’t need'
     },
 
