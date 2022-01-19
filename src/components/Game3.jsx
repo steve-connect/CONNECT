@@ -448,44 +448,44 @@ var cards9 = {
 //class10
 var cards10 = {
     set1: {
-        question: "3If we finish studying, we___.",
-        answer: '3will go outside and play'
+        question: "New doors ___ we can’t even open these ones!",
+        answer: 'are needed more because'
     },
     set2: {
-        question: "3If I work too hard, I___",
-        answer: '3may quit the job.'
+        question: "Walks would be ___ running hurts my knees.",
+        answer: 'better for exercising because'
     },
     set3: {
-        question: "3If you don't wear a coat, you___.",
-        answer: '3may catch a cold'
+        question: "Studying hard ___ we need to pass our tests!",
+        answer: 'is more important because'
     },
     set4: {
-        question: "3If I can buy a ticket, I___.",
-        answer: '3will go and see the show'
+        question: "Renting a car ___ won’t have to carry things.",
+        answer: 'would be easier because we'
     },
     set5: {
-        question: "3If you train hard, you___.",
-        answer: '3can be a champion'
+        question: "Those desks would ___ can be folded easily.",
+        answer: 'save more space because they'
     },
     set6: {
-        question: "3If I go to America, I___.",
-        answer: '3will try to speak english'
+        question: "English ___. It’s very useful when you travel!",
+        answer: 'may be more important'
     },
     set7: {
-        question: "3If we go to the party, we___.",
-        answer: '3may dance for a long time'
+        question: "Computers ___ they can save all our notes.",
+        answer: 'would help more with study as'
     },
     set8: {
-        question: "3If you eat healthy food, you___.",
-        answer: '3will feel much better'
+        question: "Vegetables ___ guests won’t be eating meat.",
+        answer: 'may be needed more as the'
     },
     set9: {
-        question: "3If I wear my glasses, I___.",
-        answer: "3will see much better"
+        question: "Better ingredients ___. These ones taste bad!",
+        answer: "would improve the taste more"
     },
     set10: {
-        question: "3If we go there, we___.",
-        answer: '3can try the new menu'
+        question: "Outdoor jobs ___ the weather can be terrible!",
+        answer: 'would be harder because'
     },
 
 }
