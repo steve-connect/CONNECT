@@ -492,44 +492,44 @@ var cards10 = {
 //class11
 var cards11 = {
     set1: {
-        question: "3If I see my friend again, I will___.",
-        answer: '3hug her'
+        question: "A party may ___ so we can chat!",
+        answer: 'be more important'
     },
     set2: {
-        question: "3If we cannot do it, we will___.",
-        answer: '3need help'
+        question: "Translators ___ the communication.",
+        answer: 'would help more with'
     },
     set3: {
-        question: "3If we buy it today, we can___.",
-        answer: '3take it home'
+        question: "Trains ___ money than airplanes.",
+        answer: 'would save more'
     },
     set4: {
-        question: "3If I buy a cheaper one, I will___.",
-        answer: '3save money'
+        question: "Sofas ___ more for taking breaks.",
+        answer: 'may be needed'
     },
     set5: {
-        question: "3If you sit too long, you may___.",
-        answer: '3fall asleep'
+        question: "Making one ___. We can just buy it!",
+        answer: 'would be harder'
     },
     set6: {
-        question: "3If you use an alarm, you can___.",
-        answer: '3get up early'
+        question: "Less coffee ___ health a lot more!",
+        answer: 'would improve your'
     },
     set7: {
-        question: "3If we try that game, we may___.",
-        answer: '3enjoy playing it'
+        question: "A play area would be ___ with kids.",
+        answer: 'better for couples'
     },
     set8: {
-        question: "3If you punch him, you will___.",
-        answer: '3be in trouble'
+        question: "A detailed plan is ___ us right now.",
+        answer: 'needed more by'
     },
     set9: {
-        question: "3If I see that cake, I may sit and___.",
-        answer: "3eat it"
+        question: "Graduating is ___ just having fun!",
+        answer: "more important than"
     },
     set10: {
-        question: "3If I save money, I can___.",
-        answer: '3travel more'
+        question: "Changing jobs would be ___ to do.",
+        answer: 'easier for him'
     },
 
 }
