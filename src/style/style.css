@@ -19,22 +19,11 @@ h2{
 }
 
 #cardContainer{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    height: 45vh;
-    min-height: 300px;
-    width: 20%;
-    overflow-y: scroll;
-    min-width: 350px;
-    background-color: white;
-    border-radius: 0px;
+    max-width: 400px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-content: flex-start;
-    justify-content: flex-start;
+    margin: 0 auto;
 }
 
 #cardDiv{
@@ -54,6 +43,8 @@ h2{
     justify-content: center;
     align-items: center;
     font-size: 0.9rem;
+    padding: 5px;
+    cursor: pointer;
 }
 .red-div{
     background-color: red;

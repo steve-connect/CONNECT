@@ -652,7 +652,7 @@ function Game({match}) {
 
     const UpdateTimeFunction = () => {
         if(gameOver === false){
-        updateTime(time = Math.round((time += 0.1) * 10) / 10)
+            updateTime(time = (Math.round((time = parseFloat(time) + 0.1) * 10) / 10).toFixed(1))            
         }
     }
 
@@ -761,7 +761,7 @@ function Game({match}) {
                 updateStatus(gameOver = true)
                 document.getElementById('cardContainer').remove()
                 ReactDOM.render(
-                    <GameOverMenu/>,
+                    <GameOverMenu number={number}/>,
                     document.getElementById('buttonContainer')
                 )
             }
