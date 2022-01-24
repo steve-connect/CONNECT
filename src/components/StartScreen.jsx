@@ -24,7 +24,7 @@ function StartScreen({match}) {
 
     return (
         <div>
-            <h1 style={{backgroundColor:colors[number - 1], color:'white', padding:'10px'}}>SMART Communication {number}</h1>
+            <h1 style={{backgroundColor:colors[number - 1], color:'white', padding:'10px',marginTop:'0px'}}>SMART Communication {number}</h1>
             <h1 id='bold-text'>CONNECT!</h1>
             <br/><h2>Class {classNum}</h2> 
             <br/><p>Match the cards !</p>
@@ -32,8 +32,8 @@ function StartScreen({match}) {
             <br/><Button
                     id='button-start' 
                     variant="contained" 
-                    color='secondary' 
-                    size='big'
+                    style={{backgroundColor:colors[number - 1], color:'white'}}
+                    size='large'
                     onClick={()=>{startGame(classNumber)}}
                     >
                     Start
