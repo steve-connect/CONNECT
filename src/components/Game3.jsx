@@ -581,44 +581,44 @@ var cards12 = {
 //class13
 var cards13 = {
     set1: {
-        question: "3You have to practice so you___.",
-        answer: '3can improve'
+        question: "It ___ if you test it on mice first.",
+        answer: 'might be better'
     },
     set2: {
-        question: "3I need to see John because I___.",
-        answer: '3love him'
+        question: "We could ___ more with money!",
+        answer: 'improve motivation'
     },
     set3: {
-        question: "3We must go now so we___.",
-        answer: "3aren't late"
+        question: "You ___ cheaper ways to do it.",
+        answer: "may need to try"
     },
     set4: {
-        question: "3You don't have to pay because___.",
-        answer: "3it's my turn"
+        question: "We ___ sure that they read it all.",
+        answer: "have to make"
     },
     set5: {
-        question: "3I don't need to move so I___.",
-        answer: '3can stay here'
+        question: "It’s ___ that we meet them first.",
+        answer: 'most important'
     },
     set6: {
-        question: "3We mustn't cheat because we___.",
-        answer: "3won't learn"
+        question: "It ___ time if we use more people.",
+        answer: "could save us"
     },
     set7: {
-        question: "3You should be tough so you___.",
-        answer: "3don't cry"
+        question: "___ more by having fewer guests.",
+        answer: "It’d be improved"
     },
     set8: {
-        question: "3I should try it because___.",
-        answer: "3it's new"
+        question: "It can only ___ find a cheap place.",
+        answer: "happen if we"
     },
     set9: {
-        question: "3We shouldn't lie to Jane so we___.",
-        answer: "3don't hurt her"
+        question: "It may ___ we all use only English.",
+        answer: "be easier if"
     },
     set10: {
-        question: "3I shouldn't sell it because I___.",
-        answer: '3want to keep it'
+        question: "It ___ more if there is free parking",
+        answer: 'might help visitors'
     },
 
 }
