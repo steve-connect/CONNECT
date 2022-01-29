@@ -537,44 +537,44 @@ var cards11 = {
 //class12
 var cards12 = {
     set1: {
-        question: '3I have to say sorry because I___.',
-        answer: '3forgot her birthday'
+        question: 'It might be better if we ___.',
+        answer: 'do it on a sunny day'
     },
     set2: {
-        question: '3We need to go back so we___.',
-        answer: '3can find our bags'
+        question: 'It might be improved by ___.',
+        answer: 'using stronger material'
     },
     set3: {
-        question: '3You must eat more because you___.',
-        answer: '3look so thin'
+        question: 'You might need to use a ___.',
+        answer: 'longer period of time'
     },
     set4: {
-        question: "3I don't have to go so I___.",
-        answer: '3will relax at home'
+        question: "It’s most important that ___.",
+        answer: 'we find a good teacher'
     },
     set5: {
-        question: "3You don't need to help me because you___.",
-        answer: '3need a break'
+        question: "You have to make sure the ___.",
+        answer: 'student will not give up'
     },
     set6: {
-        question: "3We mustn't change our plans so we___.",
-        answer: '3can arrange the trip'
+        question: "It will only happen if we are ___.",
+        answer: 'ready to start tomorrow'
     },
     set7: {
-        question: '3I should try again because I___.',
-        answer: '3really want to pass'
+        question: 'It might be easier if we ask ___.',
+        answer: 'them for some more help'
     },
     set8: {
-        question: '3You should study more so you___.',
-        answer: '3can improve your English'
+        question: 'It might help more if he ___.',
+        answer: 'gives them instructions'
     },
     set9: {
-        question: "3We shouldn't fight because we___!",
-        answer: '3love each other'
+        question: "It might improve sales ___.",
+        answer: 'more if we advertise it'
     },
     set10: {
-        question: "3You shouldn't stay up late so you___.",
-        answer: '3can get up tomorrow'
+        question: "It might save more lives ___.",
+        answer: 'if we add some exits'
     },
 
 }
