@@ -184,7 +184,7 @@ var cards2 = {
 //class3
 var cards3 = {
     set1: {
-        question: 'Your house is ___ so we can get ther sooner.',
+        question: 'Your house is ___ so we can get there sooner.',
         answer: 'closer'
     },
     set2: {
