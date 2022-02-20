@@ -111,7 +111,7 @@ var cards1 = {
         answer: 'taking a lot of breaks'
     },
     set5: {
-        question: "Maybe ___ because we can see beautful art.",
+        question: "Maybe ___ because we can see beautiful art.",
         answer: 'we could go to a museum'
     },
     set6: {
