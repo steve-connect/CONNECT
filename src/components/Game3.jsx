@@ -75,19 +75,19 @@ var cards0b = {
         answer: 'Result'
     },
     set7: {
-        question: "3The 1st section is called___.",
+        question: "The 1st section is called___.",
         answer: 'Ready!'
     },
     set8: {
-        question: "3‘M’ stands for___in this book.",
+        question: "‘M’ stands for___in this book.",
         answer: 'Measure'
     },
     set9: {
-        question: "3This game is in___.",
+        question: "This game is in___.",
         answer: "Class 0"
     },
     set10: {
-        question: "3This game is called___.",
+        question: "This game is called___.",
         answer: 'CHAMPION CONNECT!'
     },
 
