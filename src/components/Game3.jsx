@@ -71,7 +71,7 @@ var cards0b = {
         answer: 'Skill'
     },
     set6: {
-        question: "3‘R’ stands for___in this book.",
+        question: "‘R’ stands for___in this book.",
         answer: 'Result'
     },
     set7: {
@@ -185,15 +185,15 @@ var cards2 = {
 var cards3 = {
     set1: {
         question: '___ you think that will be a cheaper idea?',
-        answer: ' Why do'
+        answer: 'Why do'
     },
     set2: {
         question: "___ break it and can’t fix it by themselves?",
-        answer: ' What if they'
+        answer: 'What if they'
     },
     set3: {
         question: "___ sure that everyone takes part in it?",
-        answer: ' How will we make'
+        answer: 'How will we make'
     },
     set4: {
         question: "___ best one after we try a few first?",
@@ -273,35 +273,35 @@ var cards4 = {
 var cards5 = {
     set1: {
         question: "Working different hours ___ make more money!",
-        answer: ' won’t mean that you'
+        answer: 'won’t mean that you'
     },
     set2: {
         question: "Using translators ___ the museum tour more.",
-        answer: ' will help people understand'
+        answer: 'will help people understand'
     },
     set3: {
         question: "Meeting in the city ___ who live far away.",
-        answer: ' will be hard for those'
+        answer: 'will be hard for those'
     },
     set4: {
         question: "Adding nice art ___ and pay to look around.",
-        answer: ' will mean that more enter'
+        answer: 'will mean that more enter'
     },
     set5: {
         question: "Adding more computers ___ more effectively.",
-        answer: ' won’t help students study'
+        answer: 'won’t help students study'
     },
     set6: {
         question: "Walking every day ___ keeps you in shape.",
-        answer: ' is important because it'
+        answer: 'is important because it'
     },
     set7: {
         question: "Learning Spanish ___ of us already study it.",
-        answer: ' will be easy because some'
+        answer: 'will be easy because some'
     },
     set8: {
         question: "This town ___ as it already has a good one.",
-        answer: ' doesn’t need a new station'
+        answer: 'doesn’t need a new station'
     },
     set9: {
         question: "Ordering a cake ___ will bring other snacks.",
@@ -309,7 +309,7 @@ var cards5 = {
     },
     set10: {
         question: "The customers ___ as they usually drive here.",
-        answer: ' need lots of parking spaces'
+        answer: 'need lots of parking spaces'
     },
 
 }
