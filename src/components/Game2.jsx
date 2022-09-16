@@ -741,7 +741,8 @@ function Game({match}) {
                     for(var i = 0; i < document.getElementsByClassName('card').length; i++){
                         document.getElementById(document.getElementsByClassName('card')[i].id).style = 'box-shadow: 0px 0px 0px royalblue;'
                     }
-                    updateStatus(time += timeAddedOnFail)
+                    time = +time + timeAddedOnFail;
+                    updateStatus(time)
                     return
                 }
                 document.getElementById(memory[0].quest).remove()
@@ -754,7 +755,8 @@ function Game({match}) {
                 for(var i = 0; i < document.getElementsByClassName('card').length; i++){
                     document.getElementById(document.getElementsByClassName('card')[i].id).style = 'box-shadow: 0px 0px 0px royalblue;'
                 }
-                updateStatus(time += timeAddedOnFail)
+                time = +time + timeAddedOnFail;
+                updateStatus(time)
             }
 
             if(elements === 0){
